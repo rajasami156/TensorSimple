@@ -34,6 +34,9 @@ Experimentation:
 Use TensorSimple as a playground for experimenting with different model architectures and hyperparameters.
 
 ## Note
+
+Inspired By: @ Nicholas Renotte ('https://www.youtube.com/watch?v=6_2hzRopPbQ')
+
 Ensure your environment variables, including any API keys, are securely configured.
 
 TensorSimple is designed for quick and basic TensorFlow model implementations. Explore additional TensorFlow functionalities for more advanced use cases.
